@@ -3,7 +3,7 @@
 
 
 - 👮‍♂️ Servidor Público
-- 🌱 Engenheiro Agronomo 
+- 🌱 Engenheiro Agrônomo 
 - 💻 Estudante de Analise e Desenvolvimento de Sistemas | Fatec GARÇA
   
 
